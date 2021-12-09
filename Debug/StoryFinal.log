@@ -1,0 +1,3 @@
+﻿  Story.cpp
+C:\Users\DonovanWilliams\Documents\Visual Studio 2019\StoryFinal\Story.cpp(17,6): warning C4101: 'm': unreferenced local variable
+  StoryFinal.vcxproj -> C:\Users\DonovanWilliams\Documents\Visual Studio 2019\StoryFinal\Debug\StoryFinal.exe
